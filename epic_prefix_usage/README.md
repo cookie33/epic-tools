@@ -5,7 +5,6 @@ This directory contains an ePIC tool, which is used to generate prefix usage sta
 
 You can read more about ePIC under: [www.pidconsortium.eu](http://www.pidconsortium.eu/).
 
-=======
 # Usage statistics
 
 There is 1 process at work at the moment:
